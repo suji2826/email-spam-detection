@@ -48,7 +48,7 @@ Email-Spam-Detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/email-spam-detection.git
+git clone https://github.com/suji2826/email-spam-detection.git
 ```
 
 Navigate to the project folder:
